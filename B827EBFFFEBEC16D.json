@@ -1,0 +1,16 @@
+{
+	"gateway_conf": {
+		"gateway_ID": "B827EBFFFEBEC16D",
+		"servers": [{
+			"server_address": "router.eu.thethings.network",
+			"serv_port_up": 1700,
+			"serv_port_down": 1700,
+			"serv_enabled": true
+		}],
+		"ref_latitude": 51.4899,
+		"ref_longitude": 0.3043,
+		"ref_altitude": 12,
+		"contact_email": "mark@annasach.net",
+		"description": "LoRaWAN Brentford"
+	}
+}
